@@ -15,3 +15,6 @@
 - треугольная;
 - пилообразная;
 - шум.
+
+![Program](https://github.com/chiki-takipavel/DSP_LW1/blob/master/Screenshots/DSP_LW1.png)
+![Sonic Visualiser](https://github.com/chiki-takipavel/DSP_LW1/blob/master/Screenshots/DSP_LW1_SonicVisualiser.png)
